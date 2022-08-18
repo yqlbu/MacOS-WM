@@ -19,7 +19,7 @@ MacOS WindowManager configurations for personal usage.
 
 #### Shortcuts
 
-![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-a9791346dd3e707232ac6d3695db8bfe.png)
+![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-21f6b7937b2b2fc9db7cfa9a1c6b7a35.png)
 
 #### Mouse
 
