@@ -15,11 +15,11 @@ MacOS WindowManager configurations for personal usage.
 
 #### Layouts
 
-![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-4daedba59969d5fd10aaf6043bf353f8.png)
+![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-460e9d6294a64dd8941f342c3cfed1ae.png)
 
 #### Shortcuts
 
-![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-355c5a2bef87d35b6dd52fe741d4a9d5.png)
+![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-a9791346dd3e707232ac6d3695db8bfe.png)
 
 #### Mouse
 
