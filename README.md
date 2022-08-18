@@ -11,11 +11,11 @@ MacOS WindowManager configurations for personal usage.
 
 #### General
 
-![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-13695c28da53e961f5a13606b288985a.png)
+![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-9e2f06c74245449018b4dc3bb0234768.png)
 
 #### Layouts
 
-![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-460e9d6294a64dd8941f342c3cfed1ae.png)
+![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-32d3599b493f989152ca2abe6187509c.png)
 
 #### Shortcuts
 
@@ -23,12 +23,12 @@ MacOS WindowManager configurations for personal usage.
 
 #### Mouse
 
-![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-27a44ee1a8ab97afcf758878fa9aeb64.png)
+![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-0819e5180f328124f94f191f884c9c4d.png)
 
 #### Floating
 
-![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-0d784afc2cde0be9d673a5d5297ebf0b.png)
+![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-db2173910d4965799f338f5cb516f20f.png)
 
 ## Rectangle
 
-![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-67f26c5e84967e7d0290f55e6617a74e.png)
+![](https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/08-18-6a88a4ca846a001ee48b9064a86b389c.png)
